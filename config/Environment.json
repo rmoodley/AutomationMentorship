@@ -1,0 +1,21 @@
+{
+	"weburl":"",
+	"webusername":"",
+	"webpassword":"",
+	"testurl":"",
+	"testmanagement":"",
+	"testmanagememntusername":"",
+	"testmanagmentpassword":"",
+	"domain":"",
+	"project":"",
+	"dbhost":"",
+	"dbusername":"",
+	"dbpass":"",
+	"reportname":"test",
+	"appendreport":"true",
+	"datalocation":"",
+	"datatype":"EXCEL",
+	"browser":"",
+	"browserdrivers":"",
+	"API":""
+}

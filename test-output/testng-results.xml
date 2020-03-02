@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="57271" started-at="2020-02-27T12:03:55 CAT" finished-at="2020-02-27T12:04:52 CAT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="57271" started-at="2020-02-27T12:03:55 CAT" finished-at="2020-02-27T12:04:52 CAT">
+      <class name="InspiredTesting.gui.tests.Test_GeeWiz">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:InspiredTesting.gui.tests.Test_GeeWiz@6f195bc3]" name="beforeMethod" is-config="true" duration-ms="11936" started-at="2020-02-27T12:03:55 CAT" finished-at="2020-02-27T12:04:07 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TestGeeWiz()[pri:0, instance:InspiredTesting.gui.tests.Test_GeeWiz@6f195bc3]" name="TestGeeWiz" duration-ms="44044" started-at="2020-02-27T12:04:07 CAT" finished-at="2020-02-27T12:04:51 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestGeeWiz -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:InspiredTesting.gui.tests.Test_GeeWiz@6f195bc3]" name="afterMethod" is-config="true" duration-ms="1233" started-at="2020-02-27T12:04:51 CAT" finished-at="2020-02-27T12:04:52 CAT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- InspiredTesting.gui.tests.Test_GeeWiz -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
